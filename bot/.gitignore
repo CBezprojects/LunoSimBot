@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+.env
+*.pkl
+
+# Jupyter / VSCode
+.ipynb_checkpoints/
+.vscode/
+*.code-workspace
+
+# Backup & exports
+bot/backups/
+bot_export.xlsx
+trades.csv
+pnl.csv
+wallet.json
+
+# OS junk
+.DS_Store
+Thumbs.db
