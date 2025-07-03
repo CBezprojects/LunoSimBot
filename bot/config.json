@@ -1,0 +1,15 @@
+{
+  "symbols": {
+    "BTC_ZAR": "XBTZAR",
+    "ETH_ZAR": "ETHZAR",
+    "BTC_USDT": "BTCUSDT",
+    "ETH_USDT": "ETHUSDT"
+  },
+  "threshold": 0.75,
+  "start_wallet": {
+    "zar": 0.90,
+    "usdt": 8.16603,
+    "btc": 0.0,
+    "eth": 0.0
+  }
+}
