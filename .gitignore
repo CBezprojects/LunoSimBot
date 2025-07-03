@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+.env
+*.pkl
+.ipynb_checkpoints/
+.vscode/
+*.code-workspace
+bot/backups/
+bot_export.xlsx
+trades.csv
+pnl.csv
+wallet.json
+.DS_Store
+Thumbs.db
