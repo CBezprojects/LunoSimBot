@@ -1,0 +1,11 @@
+﻿LunoSimBot GUI Version 1.3
+--------------------------
+✅ Summary of What’s New in v1.3:
+- ⚙️ Zoom Popup: Settings menu added with zoom input (default 100%)
+- 📊 Live Chart Restored: matplotlib chart added back with scaling support
+- 🎨 Dynamic Font Scaling: Applies zoom to price, wallet, log, and label fonts
+- 🗃 Clean Settings Save: settings.json stores zoom for persistent UI prefs
+- 🛠 Error Tolerance: Wrapped settings/wallet loading in try/except
+
+Git Commit:
+🧩 GUI upgraded - added zoom popup, restored chart tab - 2025-07-03
